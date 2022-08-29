@@ -4,11 +4,11 @@ Hi 👋 My name is swastik poojari
 Flutter Developer || Machine Learning Enthusiast || Python Developer || Robotoics Enthusiast
 -------------------------------------------------------------------------------------------
 
-i have been coding from 4 years. i started with python and got my interest in Artificial intelligence. So i learnt machine learning, deep learning and computer vision, created multiple projects based on these topics, even created some end-to-end projects. Even got my interest in mobile development so went for flutter and now i am currently learning it.
+i have been coding from 4 years. i started with python and got my interest in Artificial intelligence. So i learnt machine learning, deep learning and computer vision, created multiple projects based on these topics, even created some end-to-end projects. Even got my interest in mobile development so went for flutter and now i am currently developing applications using it..
 
 * 🌍  I'm based in Navi Mumbai, Maharastra, India.
 * ✉️  You can contact me at [swastikpoojari21@gmail.com](mailto:swastikpoojari21@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm Mastering Flutter
 * 🤝  I'm open to collaborating on AI/ML, Python Frameworks, Flutter, Javascript Frameworks.
 * ⚡  i'm secretly Anime fan..... but don't tell anyone.
 
